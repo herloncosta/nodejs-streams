@@ -1,2 +1,12 @@
 # Primeiros passos com Node.js usando Streams
-## Processamento de dados sob demanda
+## Processando dados aleatórios sob demanda
+
+"""
+## Instalação
+
+`npm install`
+
+## Execução dos servidores
+
+`npm run client`
+`npm run server`
